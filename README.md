@@ -49,12 +49,14 @@
 
 🚧 Working in progess 🚧
 
+<!--
 ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
+-->
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
