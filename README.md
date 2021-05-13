@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-🚧 Working in progess 🚧
+🚧 Working in progress 🚧
 
 <!--
 ## :sparkles: Features ##
