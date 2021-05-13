@@ -75,7 +75,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/ignews
+$ git clone https://github.com/guribeiro/ignews
 
 # Access
 $ cd ignews
